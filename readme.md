@@ -1,1 +1,1 @@
-Hello my name is albin, i am a programmer
+Hello my name is albin, i am a programmer. i am learning at SBXOneStudio 
